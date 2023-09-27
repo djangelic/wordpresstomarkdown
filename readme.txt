@@ -36,7 +36,7 @@ This tool allows you to convert WordPress XML exports into Markdown format, maki
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/wordpress-to-markdown-converter.git
+   git clone https://github.com/djangelic/wordpresstomarkdown.git
 
 2. Install the required dependencies:
    ```bash
