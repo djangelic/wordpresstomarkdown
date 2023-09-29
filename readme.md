@@ -40,6 +40,6 @@ This tool allows you to convert WordPress XML exports into Markdown format, maki
 
 2. Install the required dependencies:
    ```bash
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 
 Make sure you have Python 3.x installed on your system.
