@@ -1,6 +1,6 @@
 # WordPress XML to Markdown Converter
 
-Convert WordPress XML exports to Markdown format with ease.
+Convert WordPress XML exports to Markdown format with ease. I created this tool to help me migrate my personal Wordpress blogs over to Joplin Page Publisher. 
 
 ## Table of Contents
 - [Overview](#overview)
